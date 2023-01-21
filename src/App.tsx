@@ -6,7 +6,7 @@ const App: FC<any> = () => {
   return <Fragment>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Authenticate/>} />
+        <Route path="/login" element={<Authenticate/>} />
       </Routes>
     </BrowserRouter>
   </Fragment>

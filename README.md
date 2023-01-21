@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with New-React-app-with-Typescript
+Its a food delivery app which made up by using React.js and Typescript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
