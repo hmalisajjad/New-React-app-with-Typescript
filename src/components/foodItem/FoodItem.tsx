@@ -7,6 +7,7 @@ interface Dish {
     status: string;
 }
 
+
 const FoodItem: React.FC<{ item: Dish}> = (props) => {
     return <React.Fragment>
         <div>
